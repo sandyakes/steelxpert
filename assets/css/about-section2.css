@@ -1,0 +1,7 @@
+.about-section2 .row {
+    background-color: var(--light_color);
+}
+
+.about-section2 img {
+    display: block;
+}
